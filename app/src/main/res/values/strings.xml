@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">JavaMob</string>
+    <string name="hello_practice_java">Hello practice java</string>
+    <string name="chain">chain</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="uwu_hint">uwu</string>
 </resources>
