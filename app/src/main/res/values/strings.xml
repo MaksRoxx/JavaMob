@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">JavaMob</string>
+    <string name="click_me" translatable="false">Click me</string>
+    <string name="count" translatable="false">Count</string>
 </resources>
