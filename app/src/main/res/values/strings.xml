@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">JavaMob</string>
+    <string name="welcome_message">Добро пожаловать!</string>
+    <string name="welcome_user">Добро пожаловать, %1$s!</string>
+
+    <plurals name="number_of_messages">
+        <item quantity="one">У вас есть одно сообщение</item>
+        <item quantity="other">У вас есть %d сообщений</item>
+    </plurals>
+
+    <string-array name="planets_array">
+        <item>Меркурий</item>
+        <item>Венера</item>
+        <item>Земля</item>
+    </string-array>
 </resources>
